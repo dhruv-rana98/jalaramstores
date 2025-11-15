@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Fruits & Vegetables",
+    "slug": "fruits-vegetables",
+    "image": "/images/categories/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Indian Snacks",
+    "slug": "indian-snacks",
+    "image": "/images/categories/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Frozen",
+    "slug": "frozen",
+    "image": "/images/categories/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Ghee & Oils",
+    "slug": "ghee-oils",
+    "image": "/images/categories/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Ready Mixes",
+    "slug": "ready-mixes",
+    "image": "/images/categories/5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Sweets",
+    "slug": "sweets",
+    "image": "/images/categories/6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Dry Fruits & Nuts",
+    "slug": "dry-fruits-nuts",
+    "image": "/images/categories/7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Flours",
+    "slug": "flours",
+    "image": "/images/categories/8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Dals & Beans",
+    "slug": "dals-beans",
+    "image": "/images/categories/9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Ground Spices",
+    "slug": "ground-spices",
+    "image": "/images/categories/10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Whole Spices",
+    "slug": "whole-spices",
+    "image": "/images/categories/11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Health & Beauty",
+    "slug": "health-beauty",
+    "image": "/images/categories/12.jpg"
+  }
+]

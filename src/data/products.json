@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Khushi Soya Sticks",
+    "category": "indian-snacks",
+    "price": 1.25,
+    "image": "/images/products/1.jpg",
+    "size": "180g",
+    "brand": "Khushi",
+    "offer": null,
+    "description": "Crispy soya sticks snack"
+  },
+  {
+    "id": 2,
+    "name": "Khushi Methi Gathiya",
+    "category": "indian-snacks",
+    "price": 1.25,
+    "image": "/images/products/2.jpg",
+    "size": "180g",
+    "brand": "Khushi",
+    "offer": null,
+    "description": "Traditional methi flavored gathiya"
+  },
+  {
+    "id": 3,
+    "name": "Khushi Chana Jor Garam",
+    "category": "indian-snacks",
+    "price": 1.25,
+    "image": "/images/products/3.jpg",
+    "size": "180g",
+    "brand": "Khushi",
+    "offer": null,
+    "description": "Roasted chickpea snack"
+  },
+  {
+    "id": 4,
+    "name": "Tuvar",
+    "category": "dals-beans",
+    "price": 4.8,
+    "image": "/images/products/4.jpg",
+    "size": "350g",
+    "brand": "Produce of India",
+    "offer": null,
+    "description": "Fresh tuvar dal"
+  },
+  {
+    "id": 5,
+    "name": "Fresh Green Garlic Bunch",
+    "category": "fruits-vegetables",
+    "price": 3.74,
+    "image": "/images/products/5.jpg",
+    "size": "1 Bunch",
+    "brand": "Produce of India",
+    "offer": null,
+    "description": "Fresh green garlic lilu lasan"
+  },
+  {
+    "id": 6,
+    "name": "Guvar",
+    "category": "fruits-vegetables",
+    "price": 3.05,
+    "image": "/images/products/6.jpg",
+    "size": "350g",
+    "brand": "Produce of India",
+    "offer": null,
+    "description": "Fresh guvar cluster beans"
+  },
+  {
+    "id": 7,
+    "name": "Tindora",
+    "category": "fruits-vegetables",
+    "price": 2.61,
+    "image": "/images/products/7.jpg",
+    "size": "350g",
+    "brand": "Produce of India",
+    "offer": null,
+    "description": "Fresh tindora ivy gourd"
+  },
+  {
+    "id": 8,
+    "name": "Bombay Onion",
+    "category": "fruits-vegetables",
+    "price": 4.38,
+    "image": "/images/products/8.jpg",
+    "size": "3Kg",
+    "brand": "Produce of India",
+    "offer": null,
+    "description": "Large bombay onions"
+  },
+  {
+    "id": 9,
+    "name": "Okra",
+    "category": "fruits-vegetables",
+    "price": 2.83,
+    "image": "/images/products/9.jpg",
+    "size": "350g",
+    "brand": "Produce of India",
+    "offer": {
+      "originalPrice": 3.75,
+      "discountPercent": 25
+    },
+    "description": "Fresh okra ladies finger"
+  },
+  {
+    "id": 10,
+    "name": "Telugu Foods Barnyard Millet",
+    "category": "flours",
+    "price": 4,
+    "image": "/images/products/10.jpg",
+    "size": "500g",
+    "brand": "Telugu Foods",
+    "offer": null,
+    "description": "Healthy barnyard millet flour"
+  },
+  {
+    "id": 11,
+    "name": "Aashirvaad Atta (Whole Wheat Flour)",
+    "category": "flours",
+    "price": 19.99,
+    "image": "/images/products/11.jpg",
+    "size": "10Kg",
+    "brand": "Aashirvaad",
+    "offer": {
+      "originalPrice": 24.99,
+      "discountPercent": 20
+    },
+    "description": "Premium whole wheat flour for daily use"
+  },
+  {
+    "id": 12,
+    "name": "Suhana Peri Peri Masala",
+    "category": "ground-spices",
+    "price": 1.88,
+    "image": "/images/products/12.jpg",
+    "size": "100g",
+    "brand": "Suhana",
+    "offer": null,
+    "description": "Spicy peri peri masala blend"
+  },
+  {
+    "id": 13,
+    "name": "Suhana Pau Bhaji Masala Mix",
+    "category": "ground-spices",
+    "price": 2.49,
+    "image": "/images/products/13.jpg",
+    "size": "100g",
+    "brand": "Suhana",
+    "offer": null,
+    "description": "Pau bhaji masala ready mix"
+  },
+  {
+    "id": 14,
+    "name": "Uthra Idli Rice",
+    "category": "ready-mixes",
+    "price": 11.24,
+    "image": "/images/products/14.jpg",
+    "size": "5Kg",
+    "brand": "Uthra",
+    "offer": null,
+    "description": "Premium idli rice"
+  }
+]

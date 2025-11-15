@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Haldiram's",
+    "slug": "haldirams",
+    "image": "/images/brands/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Jaimin",
+    "slug": "jaimin",
+    "image": "/images/brands/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Regal Snacks",
+    "slug": "regal",
+    "image": "/images/brands/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Dairy Valley",
+    "slug": "dairy-valley",
+    "image": "/images/brands/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "KTC",
+    "slug": "ktc",
+    "image": "/images/brands/5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Aashirvaad",
+    "slug": "aashirvaad",
+    "image": "/images/brands/6.jpg"
+  }
+]

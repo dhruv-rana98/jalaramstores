@@ -1,0 +1,124 @@
+.brands-page {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 2rem 3rem 2rem;
+}
+
+.page-header {
+  text-align: center;
+  padding: 3rem 0 1rem 0;
+}
+
+.page-header h1 {
+  font-size: 2.5rem;
+  color: #333;
+  margin: 0 0 0.5rem 0;
+  font-weight: 700;
+}
+
+.page-header p {
+  font-size: 1.1rem;
+  color: #666;
+  margin: 0;
+}
+
+.breadcrumb {
+  margin: 1.5rem 0 2rem 0;
+  font-size: 0.95rem;
+  color: #666;
+}
+
+.breadcrumb a { color: #2d5016; text-decoration: none; }
+
+.brands-grid-full {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+/* Medium laptop (1024px) */
+@media (max-width: 1024px) {
+  .brands-grid-full {
+    margin-top: 2.2rem;
+  }
+}
+
+/* Tablet and below (768px and below) */
+@media (max-width: 768px) {
+  .brands-page {
+    padding: 0 1rem 2rem 1rem;
+  }
+
+  .page-header {
+    padding: 2rem 0 0.75rem 0;
+  }
+
+  .page-header h1 {
+    font-size: 2rem;
+  }
+
+  .page-header p {
+    font-size: 0.95rem;
+  }
+
+  .breadcrumb {
+    margin: 1rem 0 1.5rem 0;
+    font-size: 0.85rem;
+  }
+
+  .brands-grid-full {
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 1rem;
+    margin-top: 1.5rem;
+  }
+}
+
+/* Small mobile (480px and below) */
+@media (max-width: 480px) {
+  .brands-page {
+    padding: 0 0.75rem 1.5rem 0.75rem;
+  }
+
+  .page-header {
+    padding: 1.5rem 0 0.5rem 0;
+  }
+
+  .page-header h1 {
+    font-size: 1.5rem;
+  }
+
+  .page-header p {
+    font-size: 0.85rem;
+  }
+
+  .breadcrumb {
+    margin: 0.75rem 0 1rem 0;
+    font-size: 0.75rem;
+  }
+
+  .brands-grid-full {
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 0.75rem;
+    margin-top: 1rem;
+  }
+}
+
+/* Large desktop (1200px and above) */
+@media (min-width: 1200px) {
+  .brands-page {
+    padding: 0 3rem 4rem 3rem;
+  }
+
+  .page-header {
+    padding: 4rem 0 1.5rem 0;
+  }
+
+  .breadcrumb {
+    margin: 2rem 0 2.5rem 0;
+  }
+
+  .brands-grid-full {
+    margin-top: 3rem;
+  }
+}
