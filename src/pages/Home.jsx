@@ -1,14 +1,12 @@
+import { Link } from 'react-router-dom';
 import Hero from '../components/Hero';
 import CategoryCard from '../components/CategoryCard';
-import ProductCard from '../components/ProductCard';
 import BrandCard from '../components/BrandCard';
 import categories from '../data/categories.json';
-import products from '../data/products.json';
 import brands from '../data/brands.json';
 import '../styles/Home.css';
 
 export default function Home() {
-  const featuredProducts = products.slice(0, 6);
   const featuredBrands = brands.slice(0, 6);
 
   return (
@@ -19,7 +17,7 @@ export default function Home() {
       <section className="categories-section">
         <div className="section-header">
           <h2>Shop Categories</h2>
-          <a href="/categories" className="view-all">View All →</a>
+          <Link to="/categories" className="view-all">View All →</Link>
         </div>
         <div className="categories-grid">
           {categories.slice(0, 8).map(category => (
@@ -28,24 +26,12 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Featured Products Section */}
-      <section className="products-section">
-        <div className="section-header">
-          <h2>Featured Products</h2>
-          <a href="/products" className="view-all">View All →</a>
-        </div>
-        <div className="products-grid">
-          {featuredProducts.map(product => (
-            <ProductCard key={product.id} product={product} />
-          ))}
-        </div>
-      </section>
 
       {/* Brands Section */}
       <section className="brands-section">
         <div className="section-header">
           <h2>Shop By Brands</h2>
-          <a href="/brands" className="view-all">View All →</a>
+          <Link to="/brands" className="view-all">View All →</Link>
         </div>
         <div className="brands-grid">
           {featuredBrands.map(brand => (
