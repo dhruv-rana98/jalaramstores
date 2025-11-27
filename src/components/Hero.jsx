@@ -4,7 +4,7 @@ export default function Hero() {
   return (
     <section className="hero">
       <div className="hero-content">
-        <h2>Welcome to Jalaram Grocerry</h2>
+        <h2>Welcome to Jalaram Grocery</h2>
         <p>Fresh Indian Groceries & Authentic Ingredients</p>
         <div className="hero-features">
           <div className="feature">

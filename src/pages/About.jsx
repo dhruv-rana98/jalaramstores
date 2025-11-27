@@ -5,7 +5,7 @@ export default function About() {
   return (
     <div className="about-page">
       <div className="page-header">
-        <h1>About Jalaram Grocerry</h1>
+        <h1>About Jalaram Grocery</h1>
         <p>Your trusted source for authentic Indian groceries</p>
       </div>
 
@@ -17,8 +17,8 @@ export default function About() {
         <section className="about-section">
           <h2>Our Story</h2>
           <p>
-            Jalaram Grocerry is dedicated to bringing authentic Indian groceries and ingredients 
-            directly to your doorstep. With a commitment to quality and freshness, we source our 
+            Jalaram Grocery is dedicated to bringing authentic Indian groceries and ingredients
+            directly to your doorstep. With a commitment to quality and freshness, we source our
             products from trusted suppliers and farms across India.
           </p>
         </section>
@@ -26,7 +26,7 @@ export default function About() {
         <section className="about-section">
           <h2>Our Mission</h2>
           <p>
-            We aim to make genuine Indian ingredients accessible to everyone, preserving the 
+            We aim to make genuine Indian ingredients accessible to everyone, preserving the
             authenticity of Indian cuisine while ensuring the highest standards of quality and hygiene.
           </p>
         </section>

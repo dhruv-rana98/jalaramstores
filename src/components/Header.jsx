@@ -6,7 +6,7 @@ export default function Header() {
     <header className="header">
       <div className="header-container">
         <Link to="/" className="logo">
-          <h1>Jalaram Grocerry</h1>
+          <h1>Jalaram Grocery</h1>
         </Link>
         <nav className="navbar">
           <Link to="/">Home</Link>
@@ -17,7 +17,7 @@ export default function Header() {
         </nav>
         <div className="header-right">
           <span className="search-icon">🔍</span>
-          <span className="cart-icon">🛒</span>
+
           <span className="account-icon">👤</span>
         </div>
       </div>

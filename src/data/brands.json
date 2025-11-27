@@ -13,8 +13,8 @@
   },
   {
     "id": 3,
-    "name": "Regal Snacks",
-    "slug": "regal",
+    "name": "Balaji",
+    "slug": "balaji",
     "image": "/images/brands/3.jpg"
   },
   {
@@ -34,5 +34,29 @@
     "name": "Aashirvaad",
     "slug": "aashirvaad",
     "image": "/images/brands/6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Kurkure",
+    "slug": "kurkure",
+    "image": "/images/brands/7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Lays",
+    "slug": "lays",
+    "image": "/images/brands/8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Doritos",
+    "slug": "doritos",
+    "image": "/images/brands/9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Fudco",
+    "slug": "fudco",
+    "image": "/images/brands/10.jpg"
   }
 ]

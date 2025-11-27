@@ -54,15 +54,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Newsletter Section */}
-      <section className="newsletter-section">
-        <h2>Join Our Newsletter</h2>
-        <p>Get exclusive offers, recipes, and updates!</p>
-        <form className="newsletter-form">
-          <input type="email" placeholder="Enter your email" required />
-          <button type="submit">Subscribe</button>
-        </form>
-      </section>
     </div>
   );
 }

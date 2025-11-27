@@ -28,7 +28,7 @@ export default function ProductCard({ product }) {
             <span className="current-price">£{product.price.toFixed(2)}</span>
           )}
         </div>
-        <button className="add-to-cart-btn">Add to Cart</button>
+
       </div>
     </div>
   );

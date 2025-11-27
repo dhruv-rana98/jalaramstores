@@ -22,28 +22,28 @@ export default function Contact() {
         <div className="contact-info">
           <section className="info-section">
             <h3>📍 Address</h3>
-            <p>324 Station Rd<br />Harrow HA1 2DX<br />United Kingdom</p>
+            <p>24, Peterborough Road<br />HA1 2BQ<br />United Kingdom</p>
           </section>
 
           <section className="info-section">
             <h3>📞 Phone</h3>
-            <p>+44 20 8488 6655</p>
+            <p>020 3581 8072</p>
           </section>
 
           <section className="info-section">
             <h3>✉️ Email</h3>
-            <p><a href="mailto:info@jalaramstores.co.uk">info@jalaramstores.co.uk</a></p>
+            <p><a href="mailto:jalaram.groceryltd@gmail.com">jalaram.groceryltd@gmail.com</a></p>
           </section>
 
           <section className="info-section">
             <h3>🕐 Hours</h3>
-            <p>Monday - Sunday: 9:00 AM - 8:00 PM<br />Bank Holidays: 10:00 AM - 6:00 PM</p>
+            <p>Monday - Saturday: 08:00-22:00<br />Sunday: 09:00-20:00</p>
           </section>
         </div>
 
         <form className="contact-form" onSubmit={handleSubmit}>
           <h2>Send us a Message</h2>
-          
+
           <div className="form-group">
             <label htmlFor="name">Name</label>
             <input type="text" id="name" name="name" required />

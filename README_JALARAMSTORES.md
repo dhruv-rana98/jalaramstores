@@ -1,11 +1,3 @@
-# JalaRam Stores
-
-A modern, responsive e-commerce display website for Indian groceries and authentic ingredients, similar to Gayatri Store UK. Built with React, Vite, and React Router.
-
-## ✨ Features
-
-### Reusable Components
-
 - **Header** - Navigation with logo and icons
 - **Footer** - Links and company information
 - **Product Cards** - Display products with prices, offers, and add-to-cart buttons
@@ -25,7 +17,7 @@ A modern, responsive e-commerce display website for Indian groceries and authent
 ### 📊 Data Management
 
 - **JSON-based products** - Easy to add/modify products
-- **JSON-based categories** - Organize products into categories
+- **JSON-based categories** - Organise products into categories
 - **JSON-based brands** - Featured brand listings
 - No backend required - purely display site
 
@@ -58,7 +50,7 @@ src/
 │   └── Contact.jsx             # Contact page
 │
 ├── data/
-│   ├── products.json           # Product catalog
+│   ├── products.json           # Product catalogue
 │   ├── categories.json         # Category data
 │   └── brands.json             # Brand data
 │
@@ -248,7 +240,7 @@ This is a **display-only website** designed to showcase products and categories 
 Perfect for:
 
 - E-commerce storefronts
-- Product catalogs
+- Product catalogues
 - Portfolio projects
 - Learning React Router & components
 
@@ -265,9 +257,9 @@ To extend this project:
 7. Add customer reviews
 8. Implement admin dashboard
 
-## 📄 License
+## 📄 Licence
 
-This project is open source and available under the MIT License.
+This project is open source and available under the MIT Licence.
 
 ---
 
