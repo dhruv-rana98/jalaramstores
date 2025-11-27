@@ -5,6 +5,7 @@ import Home from './pages/Home';
 import CategoriesPage from './pages/CategoriesPage';
 import CategoryPage from './pages/CategoryPage';
 import BrandsPage from './pages/BrandsPage';
+import BrandPage from './pages/BrandPage';
 import About from './pages/About';
 import Contact from './pages/Contact';
 import './App.css';
@@ -20,6 +21,7 @@ function App() {
             <Route path="/categories" element={<CategoriesPage />} />
             <Route path="/category/:slug" element={<CategoryPage />} />
             <Route path="/brands" element={<BrandsPage />} />
+            <Route path="/brand/:slug" element={<BrandPage />} />
             <Route path="/about" element={<About />} />
             <Route path="/contact" element={<Contact />} />
           </Routes>
