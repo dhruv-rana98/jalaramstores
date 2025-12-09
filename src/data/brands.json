@@ -3,60 +3,60 @@
     "id": 1,
     "name": "Haldiram's",
     "slug": "haldirams",
-    "image": "/images/brands/1.jpg"
+    "image": "https://logos-world.net/wp-content/uploads/2023/03/Haldirams-Logo-History.jpg"
   },
   {
     "id": 2,
     "name": "Jaimin",
     "slug": "jaimin",
-    "image": "/images/brands/2.jpg"
+    "image": "https://jaiminsnacks.com/wp-content/uploads/2022/09/LOGO-1.png"
   },
   {
     "id": 3,
     "name": "Balaji",
     "slug": "balaji",
-    "image": "/images/brands/3.jpg"
+    "image": "https://th.bing.com/th/id/R.509fe0eb034451f3a31cd2d6dc39fde9?rik=KnQeHpyfkAKB4A&riu=http%3a%2f%2fwww.chipsandcrisps.com%2fuploads%2f1%2f4%2f8%2f3%2f14831570%2fbalajiwafers_orig.png&ehk=wqaaJ94jdjIUbOnkTU821A9felA7V%2b7xjYbmxKjsAZ0%3d&risl=&pid=ImgRaw&r=0"
   },
   {
     "id": 4,
     "name": "Dairy Valley",
     "slug": "dairy-valley",
-    "image": "/images/brands/4.jpg"
+    "image": "https://tse4.mm.bing.net/th/id/OIP.KcJeN7jMBtCHhg81uTJGtAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
   },
   {
     "id": 5,
     "name": "KTC",
     "slug": "ktc",
-    "image": "/images/brands/5.jpg"
+    "image": "https://tse4.mm.bing.net/th/id/OIP.dNUneg9tOmETWUtBwXkgsQHaFj?rs=1&pid=ImgDetMain&o=7&rm=3"
   },
   {
     "id": 6,
     "name": "Aashirvaad",
     "slug": "aashirvaad",
-    "image": "/images/brands/6.jpg"
+    "image": "https://vtlogo.com/wp-content/uploads/2020/04/aashirvaad-vector-logo.png"
   },
   {
     "id": 7,
     "name": "Kurkure",
     "slug": "kurkure",
-    "image": "/images/brands/7.jpg"
+    "image": "https://th.bing.com/th/id/OIP.9fkyvOIGMtFuEhEQ0yEF-gHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
   },
   {
     "id": 8,
     "name": "Lays",
     "slug": "lays",
-    "image": "/images/brands/8.jpg"
+    "image": "https://logos-world.net/wp-content/uploads/2020/12/Lays-Logo.png"
   },
   {
     "id": 9,
     "name": "Doritos",
     "slug": "doritos",
-    "image": "/images/brands/9.jpg"
+    "image": "https://logos-world.net/wp-content/uploads/2022/02/Doritos-Logo.png"
   },
   {
     "id": 10,
     "name": "Fudco",
     "slug": "fudco",
-    "image": "/images/brands/10.jpg"
+    "image": "https://vibrantfoods.com/wp-content/uploads/2022/08/sized-fudco-285x300.png"
   }
 ]

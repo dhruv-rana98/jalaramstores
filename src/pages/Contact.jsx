@@ -41,7 +41,7 @@ export default function Contact() {
           </section>
         </div>
 
-        <form className="contact-form" onSubmit={handleSubmit}>
+        {/* <form className="contact-form" onSubmit={handleSubmit}>
           <h2>Send us a Message</h2>
 
           <div className="form-group">
@@ -65,7 +65,7 @@ export default function Contact() {
           </div>
 
           <button type="submit" className="submit-btn">Send Message</button>
-        </form>
+        </form> */}
       </div>
     </div>
   );

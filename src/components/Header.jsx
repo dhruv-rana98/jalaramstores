@@ -16,9 +16,9 @@ export default function Header() {
           <Link to="/contact">Contact</Link>
         </nav>
         <div className="header-right">
-          <span className="search-icon">🔍</span>
+          {/* <span className="search-icon">🔍</span>
 
-          <span className="account-icon">👤</span>
+          <span className="account-icon">👤</span> */}
         </div>
       </div>
     </header>

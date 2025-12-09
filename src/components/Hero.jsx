@@ -12,21 +12,21 @@ export default function Hero() {
             <h3>Farm Fresh</h3>
             <p>Quality from farm to table</p>
           </div>
-          <div className="feature">
+          {/* <div className="feature">
             <span className="feature-icon">🚚</span>
             <h3>Free Delivery</h3>
             <p>On orders over £58</p>
-          </div>
+          </div> */}
           <div className="feature">
             <span className="feature-icon">⚡</span>
             <h3>Quick Checkout</h3>
             <p>Fast and secure shopping</p>
           </div>
-          <div className="feature">
+          {/* <div className="feature">
             <span className="feature-icon">💬</span>
             <h3>Support</h3>
             <p>24/7 customer support</p>
-          </div>
+          </div> */}
         </div>
       </div>
       <div className="hero-image">

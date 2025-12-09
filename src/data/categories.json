@@ -3,48 +3,48 @@
     "id": 1,
     "name": "Fruits & Vegetables",
     "slug": "fruits-vegetables",
-    "image": "/images/categories/1.jpg"
+    "image": "https://tse3.mm.bing.net/th/id/OIP.cL0hMjLYokcGu6Ad7jhB5AHaE8?rs=1&pid=ImgDetMain&o=7&rm=3"
   },
   {
     "id": 2,
     "name": "Snacks",
     "slug": "snacks",
-    "image": "/images/categories/2.jpg"
+    "image": "https://media.istockphoto.com/id/1258002419/es/foto/surtido-de-snacks-salados-desde-arriba.jpg?s=612x612&w=0&k=20&c=94HTnn_KuUaEC-y-GysrnCvwbJkGaJlTVca7ejQcZuI="
   },
   {
     "id": 3,
     "name": "Frozen",
     "slug": "frozen",
-    "image": "/images/categories/3.jpg"
+    "image": "https://thumbs.dreamstime.com/b/variety-frozen-food-products-display-assorted-items-including-vegetables-corn-meat-wooden-board-343098959.jpg"
   },
   {
     "id": 4,
     "name": "Ghee & Oils",
     "slug": "ghee-oils",
-    "image": "/images/categories/4.jpg"
+    "image": "https://tse4.mm.bing.net/th/id/OIP.n8jxny6z3hUkrxTBaW_fgAAAAA?rs=1&pid=ImgDetMain&o=7&rm=3"
   },
   {
     "id": 8,
     "name": "Flours",
     "slug": "flours",
-    "image": "/images/categories/8.jpg"
+    "image": "https://thumbs.dreamstime.com/b/assortment-labeled-flour-packages-display-farmers-market-promoting-local-organic-alternative-flours-like-323934960.jpg"
   },
   {
     "id": 9,
     "name": "Dals & Beans",
     "slug": "dals-beans",
-    "image": "/images/categories/9.jpg"
+    "image": "https://tse3.mm.bing.net/th/id/OIP.cnpHACk_OX8QQ7r34aEoHAHaE8?rs=1&pid=ImgDetMain&o=7&rm=3"
   },
   {
     "id": 13,
     "name": "Vapes and Tobacco",
     "slug": "vapes-tobacco",
-    "image": "/images/categories/13.jpg"
+    "image": "https://www.rch.org.au/uploadedImages/Main/Content/kidsinfo/fact_sheets/vape-varieties-2344812291-web-crop.jpg"
   },
   {
     "id": 14,
-    "name": "Beverages",
-    "slug": "beverages",
-    "image": "/images/categories/14.jpg"
+    "name": "Liquors",
+    "slug": "liquors",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.jK0aNSuyKsPBCmicreyS0AHaFV?rs=1&pid=ImgDetMain&o=7&rm=3"
   }
 ]

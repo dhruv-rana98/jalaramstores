@@ -422,7 +422,7 @@
   {
     "id": 50,
     "name": "Stella Artois",
-    "category": "beverages",
+    "category": "liquors",
     "price": 1.99,
     "image": "/images/products/50.jpg",
     "size": "568ml",
@@ -433,7 +433,7 @@
   {
     "id": 51,
     "name": "Budweiser",
-    "category": "beverages",
+    "category": "liquors",
     "price": 1.49,
     "image": "/images/products/51.jpg",
     "size": "440ml",
@@ -444,7 +444,7 @@
   {
     "id": 52,
     "name": "San Miguel",
-    "category": "beverages",
+    "category": "liquors",
     "price": 1.69,
     "image": "/images/products/52.jpg",
     "size": "440ml",
@@ -455,7 +455,7 @@
   {
     "id": 53,
     "name": "Heineken",
-    "category": "beverages",
+    "category": "liquors",
     "price": 1.99,
     "image": "/images/products/53.jpg",
     "size": "568ml",
@@ -466,7 +466,7 @@
   {
     "id": 54,
     "name": "Holsten Pils",
-    "category": "beverages",
+    "category": "liquors",
     "price": 1.79,
     "image": "/images/products/54.jpg",
     "size": "500ml",
@@ -477,7 +477,7 @@
   {
     "id": 55,
     "name": "Corona Extra",
-    "category": "beverages",
+    "category": "liquors",
     "price": 1.79,
     "image": "/images/products/55.jpg",
     "size": "440ml",
@@ -488,7 +488,7 @@
   {
     "id": 56,
     "name": "Jagermeister",
-    "category": "beverages",
+    "category": "liquors",
     "price": 21.99,
     "image": "/images/products/56.jpg",
     "size": "70cl",
@@ -499,7 +499,7 @@
   {
     "id": 57,
     "name": "The Famous Grouse",
-    "category": "beverages",
+    "category": "liquors",
     "price": 18.89,
     "image": "/images/products/57.jpg",
     "size": "70cl",
@@ -510,7 +510,7 @@
   {
     "id": 58,
     "name": "Jack Daniels",
-    "category": "beverages",
+    "category": "liquors",
     "price": 23.99,
     "image": "/images/products/58.jpg",
     "size": "70cl",
@@ -521,7 +521,7 @@
   {
     "id": 59,
     "name": "Chivas Regal",
-    "category": "beverages",
+    "category": "liquors",
     "price": 29.99,
     "image": "/images/products/59.jpg",
     "size": "70cl",
@@ -532,7 +532,7 @@
   {
     "id": 60,
     "name": "Black Label",
-    "category": "beverages",
+    "category": "liquors",
     "price": 32.99,
     "image": "/images/products/60.jpg",
     "size": "70cl",
@@ -543,7 +543,7 @@
   {
     "id": 61,
     "name": "High Commissioner",
-    "category": "beverages",
+    "category": "liquors",
     "price": 16.99,
     "image": "/images/products/61.jpg",
     "size": "70cl",
@@ -554,7 +554,7 @@
   {
     "id": 62,
     "name": "Jameson",
-    "category": "beverages",
+    "category": "liquors",
     "price": 23.99,
     "image": "/images/products/62.jpg",
     "size": "70cl",
@@ -565,7 +565,7 @@
   {
     "id": 63,
     "name": "Red Label",
-    "category": "beverages",
+    "category": "liquors",
     "price": 20.59,
     "image": "/images/products/63.jpg",
     "size": "70cl",
@@ -576,7 +576,7 @@
   {
     "id": 64,
     "name": "Courvoisier",
-    "category": "beverages",
+    "category": "liquors",
     "price": 33.49,
     "image": "/images/products/64.jpg",
     "size": "70cl",
@@ -587,7 +587,7 @@
   {
     "id": 65,
     "name": "Grant's",
-    "category": "beverages",
+    "category": "liquors",
     "price": 18.29,
     "image": "/images/products/65.jpg",
     "size": "70cl",
@@ -598,7 +598,7 @@
   {
     "id": 66,
     "name": "Bell's",
-    "category": "beverages",
+    "category": "liquors",
     "price": 18.59,
     "image": "/images/products/66.jpg",
     "size": "70cl",
@@ -609,7 +609,7 @@
   {
     "id": 67,
     "name": "Smirnoff",
-    "category": "beverages",
+    "category": "liquors",
     "price": 17.59,
     "image": "/images/products/67.jpg",
     "size": "70cl",
@@ -620,7 +620,7 @@
   {
     "id": 68,
     "name": "Glen's Vodka",
-    "category": "beverages",
+    "category": "liquors",
     "price": 15.99,
     "image": "/images/products/68.jpg",
     "size": "70cl",
@@ -631,7 +631,7 @@
   {
     "id": 69,
     "name": "Absolut Vodka",
-    "category": "beverages",
+    "category": "liquors",
     "price": 22.99,
     "image": "/images/products/69.jpg",
     "size": "70cl",

@@ -36,9 +36,6 @@ export default function About() {
           <ul className="features-list">
             <li>✓ Fresh products sourced directly from farms</li>
             <li>✓ Authentic Indian ingredients and brands</li>
-            <li>✓ Free delivery on orders over £58</li>
-            <li>✓ Quick and secure checkout</li>
-            <li>✓ 24/7 customer support</li>
             <li>✓ Quality guarantee on all products</li>
           </ul>
         </section>
