@@ -1,11 +1,12 @@
 .header {
-  background-color: #2d5016;
+  background: linear-gradient(135deg, #2C3E50 0%, #34495E 100%);
   color: white;
-  padding: 1rem 0;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  padding: 1.25rem 0;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
   position: sticky;
   top: 0;
   z-index: 1000;
+  backdrop-filter: blur(10px);
 }
 
 .header-container {
@@ -23,18 +24,27 @@
   text-decoration: none;
   color: white;
   flex-shrink: 0;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.logo:hover {
+  transform: scale(1.05);
 }
 
 .logo h1 {
   margin: 0;
   font-size: 1.8rem;
-  font-weight: 700;
-  letter-spacing: 1px;
+  font-weight: 800;
+  letter-spacing: 0.5px;
+  background: linear-gradient(135deg, #FFFFFF 0%, #4ECDC4 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
 }
 
 .navbar {
   display: flex;
-  gap: 2rem;
+  gap: 2.5rem;
   flex: 1;
   justify-content: center;
 }
@@ -42,13 +52,32 @@
 .navbar a {
   color: white;
   text-decoration: none;
-  font-weight: 500;
-  transition: color 0.3s;
-  font-size: 0.95rem;
+  font-weight: 600;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  font-size: 1rem;
+  position: relative;
+  padding: 0.5rem 0;
+}
+
+.navbar a::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  height: 3px;
+  background: linear-gradient(90deg, #FF6B6B, #4ECDC4);
+  transition: width 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  border-radius: 2px;
+}
+
+.navbar a:hover::after {
+  width: 100%;
 }
 
 .navbar a:hover {
-  color: #ffd700;
+  color: #4ECDC4;
+  transform: translateY(-2px);
 }
 
 .header-right {
@@ -59,12 +88,15 @@
 }
 
 .header-right span {
-  transition: transform 0.3s, color 0.3s;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  padding: 0.5rem;
+  border-radius: 8px;
 }
 
 .header-right span:hover {
-  transform: scale(1.2);
-  color: #ffd700;
+  transform: scale(1.2) rotate(10deg);
+  color: #FF6B6B;
+  background: rgba(255, 255, 255, 0.1);
 }
 
 @media (max-width: 768px) {
@@ -82,15 +114,15 @@
   }
 
   .navbar a {
-    font-size: 0.85rem;
+    font-size: 0.9rem;
   }
 
   .header-right {
     gap: 1rem;
-    font-size: 1.2rem;
+    font-size: 1.3rem;
   }
 
   .logo h1 {
-    font-size: 1.4rem;
+    font-size: 1.5rem;
   }
 }
